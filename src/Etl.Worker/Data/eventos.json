@@ -1,0 +1,4 @@
+[
+  { "nombre": "Lanzamiento Teclado Mecánico", "tipoEvento": "Lanzamiento", "fechaInicio": "2025-07-01", "fechaFin": "2025-07-31", "idProductoOrigen": 3 },
+  { "nombre": "Campaña de verano", "tipoEvento": "Campaña", "fechaInicio": "2025-08-01", "fechaFin": "2025-08-31", "idProductoOrigen": null }
+]
